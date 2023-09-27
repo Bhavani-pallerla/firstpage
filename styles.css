@@ -1,0 +1,38 @@
+.container{
+    color: white;
+    padding: 10px;
+   
+}
+/* .icon{
+    height: 20px;
+    width: 20px;
+} */
+.container a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-color: rgb(33, 33, 50);
+    color: white;
+}
+ .container .bold-text{
+    font-weight:bolder;
+    font-size: 80px;
+    /* font-size: 1000px; */ 
+}
+ .gradient{
+    font-style: italic;
+    background: -webkit-linear-gradient(#13a77f, #22a9cb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} 
+h4{
+    font-size: 24px;
+}
+/* .gradient {
+    color:linear-gradient(90deg, #effaff 0%, #d9e7ff 100%);
+  } */
+.btn{
+    border: 1px solid skyblue;
+    box-shadow: 0px 3px 0px white;
+}
