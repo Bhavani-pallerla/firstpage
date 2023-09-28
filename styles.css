@@ -1,15 +1,25 @@
 .container{
     color: white;
     padding: 10px;
+    width: 80%;
    
+}
+.main{
+    /* border: 1px solid black; */
+    display: flex;
+    gap: 180px;
+    padding: 3px;
+    margin-left: 85px;
+    
 }
 /* .icon{
     height: 20px;
     width: 20px;
 } */
-.container a{
+.main a{
     text-decoration: none;
     color: white;
+    /* margin: auto; */
 }
 body{
     background-color: rgb(33, 33, 50);
